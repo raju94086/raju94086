@@ -1,6 +1,7 @@
 - 👋 Hi, I am Raju Yadav...
 - 👀 I’m interested in ...Coding , Webdevelopment
 - 🌱 I’m currently learning ... Web Development
+- I am currently working as a director in Pranetra Research PVT LTD. an agricultural drone based start-up.
 - 📫 How to reach me ...rajuyadav94086@gmail.com
 - 
 
