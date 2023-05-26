@@ -1,5 +1,5 @@
 - 👋 Hi, I am Raju Yadav...
-- 👀 I’m interested in ...COding , Webdevelopment
+- 👀 I’m interested in ...Coding , Webdevelopment
 - 🌱 I’m currently learning ... Web Development
 - 📫 How to reach me ...rajuyadav94086@gmail.com
 - 
